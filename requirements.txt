@@ -1,1 +1,4 @@
-python-3.5.1
+requests
+time
+from bs4 import BeautifulSoup
+re
