@@ -1,4 +1,4 @@
-requests
-time
+requests==2.23.*
+time==
 from bs4 import BeautifulSoup
 re
